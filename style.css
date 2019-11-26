@@ -1,0 +1,52 @@
+.head{
+text-align: center;
+border:10px;
+background-color: #000000;
+color: #ffffff;
+
+
+
+}
+
+.list-group{
+
+padding-left:15px;
+
+
+}
+
+#search{
+
+    border-radius:5px;
+    padding-bottom:5px;
+
+
+
+}
+
+.card{
+position: relative;
+left:440px;
+bottom:410px;
+width: 211%;
+height:970%;
+
+
+
+}
+
+button{
+
+    
+    width: 20%;
+    padding: 10px;
+    background: #2196F3;
+    color: white;
+    font-size: 17px;
+    border: 1px solid grey;
+    border-left: none; /* Prevent double borders */
+    cursor: pointer;
+
+
+
+}
