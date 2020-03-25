@@ -1,0 +1,60 @@
+html{
+    height:100vh;
+}
+body{
+    height:100vh;
+}
+.header{
+    color: rgb(233, 217, 217);
+    background-color:  #070707;
+    text-align: center;
+}
+
+.inputfield{
+    background-color: rgb(187, 168, 168);
+    min-height: 100vh;
+    height: 100%;
+}
+p{
+    font-size: 25px;
+}
+
+.info{
+    display:flex;
+    align-items: center;
+    margin-top:15px;
+    margin-left: 15px;
+    border-radius: 15px 0px 0px 15px;
+    height: 50vh;
+    border-style: solid;
+    border-color: lightgrey;
+    border-width: 2px;
+    min-height: 263px;
+}
+#search-input{
+    border-radius: 5px;
+    width: 100%;
+}
+li{
+    font-size: 25px;
+    text-align: center;
+    background-color: white;
+    border-style: solid;
+    border-color: rgb(143, 117, 117);
+    border-width: 5px;
+    border-radius: 5px;
+}
+#city-form{
+    display:flex;
+}
+#icon{
+    transform: rotate(-45deg);
+}
+.forecast{
+    margin-left: 9px;
+}
+#displaycards{
+    display:flex;
+}
+
+
