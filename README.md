@@ -1,6 +1,6 @@
 # Weather-App
 
-The deployed GitHub page can be found here: https://pdorgu00.github.io/Weather-App/
+## About
 
 This application allows the user to search a US city, and the current weather will be displayed. The information given to the user includes current date, weather icon, temperature, humidity, and wind speed.
 
@@ -9,6 +9,8 @@ This application allows the user to search a US city, and the current weather wi
 
 # Getting Started and Deployment
 This application does not require installation and runs in the browser. 
+<br>
+The deployed GitHub page can be found here: https://pdorgu00.github.io/Weather-App/
 
 # Built With
 [jQuery](https://jquery.com/) - JavaScript Library
