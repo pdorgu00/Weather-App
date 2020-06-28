@@ -9,3 +9,6 @@ This application allows the user to search a US city, and the current weather wi
 
 # Getting Started and Deployment
 This application does not require installation and runs in the browser. 
+
+# Built With
+[jQuery](https://jquery.com/) - JavaScript Library
