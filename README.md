@@ -12,3 +12,4 @@ This application does not require installation and runs in the browser.
 
 # Built With
 [jQuery](https://jquery.com/) - JavaScript Library
+[Weather Api](https://openweathermap.org/api)-Weather stats
