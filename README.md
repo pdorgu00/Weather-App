@@ -12,7 +12,7 @@ This application does not require installation and runs in the browser.
 <br>
 The deployed GitHub page can be found here: https://pdorgu00.github.io/Weather-App/
 
-# Built With
+# Technologies Used
 [jQuery](https://jquery.com/) - JavaScript Library
 <br>
 [Weather Api](https://openweathermap.org/api)-Weather stats
