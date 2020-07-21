@@ -10,9 +10,12 @@ This application allows the user to search a US city, and the current weather wi
 # Getting Started and Deployment
 This application does not require installation and runs in the browser. 
 <br>
-The deployed GitHub page can be found here: https://pdorgu00.github.io/Weather-App/
 
 # Technologies Used
 [jQuery](https://jquery.com/) - JavaScript Library
 <br>
 [Weather Api](https://openweathermap.org/api)-Weather stats
+
+# Depolyed Link
+
+The deployed GitHub page can be found here: https://pdorgu00.github.io/Weather-App/
